@@ -1,6 +1,8 @@
-# Car_Sales-PowerBi_Dashboard
+# Car Sales Analysis
 Overview
 This repository contains a Power BI dashboard that provides insightful visualizations of car sales data. The dashboard offers a comprehensive analysis of various aspects of car sales, including brand-wise, year-wise, and model-wise sales, top 10 best-selling models, total sales by fuel type, total sales by transmission, and seller-type wise sales. This tool is designed to help users gain valuable insights into car sales trends and patterns.
+
+![](car sales powerbi dashboard SS.png)
 
 Features
 1. Brand-wise Sales
